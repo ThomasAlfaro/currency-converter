@@ -2,7 +2,7 @@
 
 
 
-Este proyecto es un conversor de divisas escrito en Python que obtiene las tasas de cambio actualizadas desde una API pública
+Este proyecto es un conversor de divisas escrito en Python que obtiene las tasas de cambio actualizadas desde una [API pública de divisas](https://github.com/fawazahmed0/currency-api) .
 
 Permite ingresar un monto y una divisa de origen, y muestra su equivalente en varias monedas de destino.
 
